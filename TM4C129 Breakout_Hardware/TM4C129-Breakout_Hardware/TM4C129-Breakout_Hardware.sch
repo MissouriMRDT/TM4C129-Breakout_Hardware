@@ -58,57 +58,57 @@ Wire Wire Line
 Wire Wire Line
 	9650 5250 9600 5250
 Text GLabel 9600 850  0    50   Input ~ 0
-RX_0
+RX0
 Text GLabel 9600 950  0    50   Output ~ 0
-TX_0
+TX0
 Wire Wire Line
 	9650 850  9600 850 
 Wire Wire Line
 	9650 950  9600 950 
 Text GLabel 9600 1250 0    50   Input ~ 0
-RX_3
+RX3
 Text GLabel 9600 1350 0    50   Output ~ 0
-TX_3
+TX3
 Wire Wire Line
 	9650 1250 9600 1250
 Wire Wire Line
 	9650 1350 9600 1350
 Text GLabel 9600 1450 0    50   Input ~ 0
-RX_2
+RX2
 Text GLabel 9600 1550 0    50   Output ~ 0
-TX_2
+TX2
 Wire Wire Line
 	9650 1450 9600 1450
 Wire Wire Line
 	9650 1550 9600 1550
 Text GLabel 9600 3700 0    50   Input ~ 0
-RX_4
+RX4
 Text GLabel 9600 3800 0    50   Output ~ 0
-TX_4
+TX4
 Wire Wire Line
 	9650 3700 9600 3700
 Wire Wire Line
 	9650 3800 9600 3800
 Text GLabel 9600 2300 0    50   Input ~ 0
-RX_5
+RX5
 Wire Wire Line
 	9650 2300 9600 2300
 Text GLabel 9600 2400 0    50   Output ~ 0
-TX_5
+TX5
 Wire Wire Line
 	9650 2400 9600 2400
 Text GLabel 9600 2100 0    50   Input ~ 0
-RX_7
+RX7
 Wire Wire Line
 	9650 2100 9600 2100
 Text GLabel 9600 2200 0    50   Output ~ 0
-TX_7
+TX7
 Wire Wire Line
 	9650 2200 9600 2200
 Text GLabel 9600 5400 0    50   Input ~ 0
-RX_6
+RX6
 Text GLabel 9600 5500 0    50   Output ~ 0
-TX_6
+TX6
 Wire Wire Line
 	9650 5400 9600 5400
 Wire Wire Line
@@ -1820,4 +1820,12 @@ Wire Wire Line
 	5450 6350 5450 6200
 Wire Wire Line
 	5450 6200 4900 6200
+Text GLabel 10550 850  2    50   Input ~ 0
+RX1
+Text GLabel 10550 950  2    50   Output ~ 0
+TX1
+Wire Wire Line
+	10550 950  10500 950 
+Wire Wire Line
+	10500 850  10550 850 
 $EndSCHEMATC
