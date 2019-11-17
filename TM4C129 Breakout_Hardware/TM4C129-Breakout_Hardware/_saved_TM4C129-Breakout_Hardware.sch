@@ -956,7 +956,7 @@ F 1 "NX3225GA" V 5300 4000 50  0000 L CNN
 F 2 "MRDT_Devices:NX3225GA" H 5550 4250 50  0001 C CNN
 F 3 "~" H 5550 4250 50  0001 C CNN
 	1    5550 4250
-	0    -1   -1   0   
+	0    1    1    0   
 $EndComp
 $Comp
 L Switch:SW_Push SW1
