@@ -1643,9 +1643,9 @@ Text Notes 6600 1050 0    100  ~ 20
 Ethernet
 Text Notes 3200 5100 0    100  ~ 20
 JTAG
-Text GLabel 3000 4250 0    50   Output ~ 0
-SCL0
 Text GLabel 3600 4250 2    50   Output ~ 0
+SCL0
+Text GLabel 3000 4250 0    50   Output ~ 0
 SDA0
 $Comp
 L power:+3V3 #PWR0119
