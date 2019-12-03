@@ -667,194 +667,194 @@ F 3 "~" H 3250 3400 50  0001 C CNN
 	1    3250 3400
 	1    0    0    -1  
 $EndComp
-Text GLabel 3000 3200 0    50   Input ~ 0
+Text GLabel 3600 3200 2    50   Input ~ 0
 PWM1
-Text GLabel 3000 3300 0    50   Input ~ 0
+Text GLabel 3600 3300 2    50   Input ~ 0
 PWM2
-Text GLabel 3000 3400 0    50   Input ~ 0
+Text GLabel 3600 3400 2    50   Input ~ 0
 PWM3
 Wire Wire Line
-	3000 3400 3050 3400
-Wire Wire Line
-	3050 3300 3000 3300
-Wire Wire Line
-	3000 3200 3050 3200
-Text GLabel 3000 3500 0    50   Input ~ 0
-PWM4
-Text GLabel 3000 3600 0    50   Input ~ 0
-PWM5
-Wire Wire Line
-	3050 3600 3000 3600
-Wire Wire Line
-	3000 3500 3050 3500
-Text GLabel 3000 3700 0    50   Input ~ 0
-PWM6
-Text GLabel 3000 3800 0    50   Input ~ 0
-PWM7
-Wire Wire Line
-	3050 3700 3000 3700
-Wire Wire Line
-	3050 3800 3000 3800
-Text GLabel 1850 2600 2    50   Output ~ 0
-Ethernet_Link
-Wire Wire Line
-	1850 2600 1800 2600
-Text GLabel 3000 2050 0    50   Output ~ 0
-RX0
-Wire Wire Line
-	3000 2050 3050 2050
-Text GLabel 3600 2150 2    50   Input ~ 0
-TX1
-Wire Wire Line
-	3600 2150 3550 2150
-Text GLabel 3600 2250 2    50   Input ~ 0
-TX2
-Wire Wire Line
-	3600 2250 3550 2250
-Text GLabel 3600 2350 2    50   Input ~ 0
-TX3
-Wire Wire Line
-	3600 2350 3550 2350
-Text GLabel 3600 2450 2    50   Input ~ 0
-TX4
-Wire Wire Line
-	3600 2450 3550 2450
-Text GLabel 3600 2550 2    50   Input ~ 0
-TX5
-Wire Wire Line
-	3600 2550 3550 2550
-Text GLabel 3600 2650 2    50   Input ~ 0
-TX6
-Wire Wire Line
-	3600 2650 3550 2650
-Text GLabel 3600 2750 2    50   Input ~ 0
-TX7
-Wire Wire Line
-	3600 2750 3550 2750
-Text GLabel 3000 2150 0    50   Output ~ 0
-RX1
-Wire Wire Line
-	3000 2150 3050 2150
-Text GLabel 3000 2350 0    50   Output ~ 0
-RX3
-Wire Wire Line
-	3000 2350 3050 2350
-Text GLabel 3000 2250 0    50   Output ~ 0
-RX2
-Wire Wire Line
-	3000 2250 3050 2250
-Text GLabel 3000 2450 0    50   Output ~ 0
-RX4
-Wire Wire Line
-	3000 2450 3050 2450
-Text GLabel 3000 2550 0    50   Output ~ 0
-RX5
-Wire Wire Line
-	3000 2550 3050 2550
-Text GLabel 3000 2750 0    50   Output ~ 0
-RX7
-Wire Wire Line
-	3000 2750 3050 2750
-Text GLabel 3000 2650 0    50   Output ~ 0
-RX6
-Wire Wire Line
-	3000 2650 3050 2650
-Text GLabel 3000 1000 0    50   Output ~ 0
-A0
-Wire Wire Line
-	3050 1000 3000 1000
-Text GLabel 3000 1100 0    50   Output ~ 0
-A1
-Wire Wire Line
-	3050 1100 3000 1100
-Text GLabel 3000 1200 0    50   Output ~ 0
-A2
-Wire Wire Line
-	3050 1200 3000 1200
-Text GLabel 3000 1300 0    50   Output ~ 0
-A3
-Wire Wire Line
-	3050 1300 3000 1300
-Text GLabel 3000 1400 0    50   Output ~ 0
-A4
-Wire Wire Line
-	3050 1400 3000 1400
-Text GLabel 3000 1500 0    50   Output ~ 0
-A5
-Wire Wire Line
-	3050 1500 3000 1500
-Text GLabel 3000 1600 0    50   Output ~ 0
-A6
-Wire Wire Line
-	3050 1600 3000 1600
-Text GLabel 3000 1700 0    50   Output ~ 0
-A7
-Wire Wire Line
-	3050 1700 3000 1700
-Text GLabel 3600 1000 2    50   Output ~ 0
-A8
-Wire Wire Line
-	3550 1000 3600 1000
-Text GLabel 3600 1100 2    50   Output ~ 0
-A9
-Wire Wire Line
-	3550 1100 3600 1100
-Text GLabel 3600 1200 2    50   Output ~ 0
-A10
-Wire Wire Line
-	3550 1200 3600 1200
-Text GLabel 3600 1300 2    50   Output ~ 0
-A11
-Wire Wire Line
-	3550 1300 3600 1300
-Text GLabel 3600 1400 2    50   Output ~ 0
-A12
-Wire Wire Line
-	3550 1400 3600 1400
-Text GLabel 3600 1500 2    50   Output ~ 0
-A13
-Wire Wire Line
-	3550 1500 3600 1500
-Text GLabel 3600 1600 2    50   Output ~ 0
-A14
-Wire Wire Line
-	3550 1600 3600 1600
-Text GLabel 3600 1700 2    50   Output ~ 0
-A15
-Wire Wire Line
-	3550 1700 3600 1700
-Text GLabel 3600 3100 2    50   Input ~ 0
-T2_A
-Text GLabel 3600 3200 2    50   Input ~ 0
-T2_B
-Text GLabel 3600 3300 2    50   Input ~ 0
-T3_A
-Text GLabel 3600 3400 2    50   Input ~ 0
-T3_B
-Text GLabel 3600 3500 2    50   Input ~ 0
-T4_A
-Text GLabel 3600 3600 2    50   Input ~ 0
-T4_B
-Text GLabel 3600 3700 2    50   Input ~ 0
-T5_A
-Text GLabel 3600 3800 2    50   Input ~ 0
-T5_B
-Wire Wire Line
-	3550 3100 3600 3100
-Wire Wire Line
-	3550 3200 3600 3200
+	3600 3400 3550 3400
 Wire Wire Line
 	3550 3300 3600 3300
 Wire Wire Line
-	3550 3400 3600 3400
-Wire Wire Line
-	3550 3500 3600 3500
+	3600 3200 3550 3200
+Text GLabel 3600 3500 2    50   Input ~ 0
+PWM4
+Text GLabel 3600 3600 2    50   Input ~ 0
+PWM5
 Wire Wire Line
 	3550 3600 3600 3600
+Wire Wire Line
+	3600 3500 3550 3500
+Text GLabel 3600 3700 2    50   Input ~ 0
+PWM6
+Text GLabel 3600 3800 2    50   Input ~ 0
+PWM7
 Wire Wire Line
 	3550 3700 3600 3700
 Wire Wire Line
 	3550 3800 3600 3800
+Text GLabel 1850 2600 2    50   Output ~ 0
+Ethernet_Link
+Wire Wire Line
+	1850 2600 1800 2600
+Text GLabel 3600 2050 2    50   Output ~ 0
+RX0
+Wire Wire Line
+	3600 2050 3550 2050
+Text GLabel 3000 2150 0    50   Input ~ 0
+TX1
+Wire Wire Line
+	3000 2150 3050 2150
+Text GLabel 3000 2250 0    50   Input ~ 0
+TX2
+Wire Wire Line
+	3000 2250 3050 2250
+Text GLabel 3000 2350 0    50   Input ~ 0
+TX3
+Wire Wire Line
+	3000 2350 3050 2350
+Text GLabel 3000 2450 0    50   Input ~ 0
+TX4
+Wire Wire Line
+	3000 2450 3050 2450
+Text GLabel 3000 2550 0    50   Input ~ 0
+TX5
+Wire Wire Line
+	3000 2550 3050 2550
+Text GLabel 3000 2650 0    50   Input ~ 0
+TX6
+Wire Wire Line
+	3000 2650 3050 2650
+Text GLabel 3000 2750 0    50   Input ~ 0
+TX7
+Wire Wire Line
+	3000 2750 3050 2750
+Text GLabel 3600 2150 2    50   Output ~ 0
+RX1
+Wire Wire Line
+	3600 2150 3550 2150
+Text GLabel 3600 2350 2    50   Output ~ 0
+RX3
+Wire Wire Line
+	3600 2350 3550 2350
+Text GLabel 3600 2250 2    50   Output ~ 0
+RX2
+Wire Wire Line
+	3600 2250 3550 2250
+Text GLabel 3600 2450 2    50   Output ~ 0
+RX4
+Wire Wire Line
+	3600 2450 3550 2450
+Text GLabel 3600 2550 2    50   Output ~ 0
+RX5
+Wire Wire Line
+	3600 2550 3550 2550
+Text GLabel 3600 2750 2    50   Output ~ 0
+RX7
+Wire Wire Line
+	3600 2750 3550 2750
+Text GLabel 3600 2650 2    50   Output ~ 0
+RX6
+Wire Wire Line
+	3600 2650 3550 2650
+Text GLabel 3600 1000 2    50   Output ~ 0
+A0
+Wire Wire Line
+	3550 1000 3600 1000
+Text GLabel 3600 1100 2    50   Output ~ 0
+A1
+Wire Wire Line
+	3550 1100 3600 1100
+Text GLabel 3600 1200 2    50   Output ~ 0
+A2
+Wire Wire Line
+	3550 1200 3600 1200
+Text GLabel 3600 1300 2    50   Output ~ 0
+A3
+Wire Wire Line
+	3550 1300 3600 1300
+Text GLabel 3600 1400 2    50   Output ~ 0
+A4
+Wire Wire Line
+	3550 1400 3600 1400
+Text GLabel 3600 1500 2    50   Output ~ 0
+A5
+Wire Wire Line
+	3550 1500 3600 1500
+Text GLabel 3600 1600 2    50   Output ~ 0
+A6
+Wire Wire Line
+	3550 1600 3600 1600
+Text GLabel 3600 1700 2    50   Output ~ 0
+A7
+Wire Wire Line
+	3550 1700 3600 1700
+Text GLabel 3000 1000 0    50   Output ~ 0
+A8
+Wire Wire Line
+	3050 1000 3000 1000
+Text GLabel 3000 1100 0    50   Output ~ 0
+A9
+Wire Wire Line
+	3050 1100 3000 1100
+Text GLabel 3000 1200 0    50   Output ~ 0
+A10
+Wire Wire Line
+	3050 1200 3000 1200
+Text GLabel 3000 1300 0    50   Output ~ 0
+A11
+Wire Wire Line
+	3050 1300 3000 1300
+Text GLabel 3000 1400 0    50   Output ~ 0
+A12
+Wire Wire Line
+	3050 1400 3000 1400
+Text GLabel 3000 1500 0    50   Output ~ 0
+A13
+Wire Wire Line
+	3050 1500 3000 1500
+Text GLabel 3000 1600 0    50   Output ~ 0
+A14
+Wire Wire Line
+	3050 1600 3000 1600
+Text GLabel 3000 1700 0    50   Output ~ 0
+A15
+Wire Wire Line
+	3050 1700 3000 1700
+Text GLabel 3000 3100 0    50   Input ~ 0
+T2_A
+Text GLabel 3000 3200 0    50   Input ~ 0
+T2_B
+Text GLabel 3000 3300 0    50   Input ~ 0
+T3_A
+Text GLabel 3000 3400 0    50   Input ~ 0
+T3_B
+Text GLabel 3000 3500 0    50   Input ~ 0
+T4_A
+Text GLabel 3000 3600 0    50   Input ~ 0
+T4_B
+Text GLabel 3000 3700 0    50   Input ~ 0
+T5_A
+Text GLabel 3000 3800 0    50   Input ~ 0
+T5_B
+Wire Wire Line
+	3050 3100 3000 3100
+Wire Wire Line
+	3050 3200 3000 3200
+Wire Wire Line
+	3050 3300 3000 3300
+Wire Wire Line
+	3050 3400 3000 3400
+Wire Wire Line
+	3050 3500 3000 3500
+Wire Wire Line
+	3050 3600 3000 3600
+Wire Wire Line
+	3050 3700 3000 3700
+Wire Wire Line
+	3050 3800 3000 3800
 $Comp
 L MRDT_Connectors:JTAG_ARM_Connector_10pin Conn1
 U 1 1 5DF0E509
@@ -1643,31 +1643,31 @@ Text Notes 6600 1050 0    100  ~ 20
 Ethernet
 Text Notes 3200 5100 0    100  ~ 20
 JTAG
-Text GLabel 3600 4250 2    50   Output ~ 0
-SCL0
 Text GLabel 3000 4250 0    50   Output ~ 0
+SCL0
+Text GLabel 3600 4250 2    50   Output ~ 0
 SDA0
 $Comp
 L power:+3V3 #PWR0119
 U 1 1 5DCCEC79
-P 3000 4100
-F 0 "#PWR0119" H 3000 3950 50  0001 C CNN
-F 1 "+3V3" H 3015 4273 50  0000 C CNN
-F 2 "" H 3000 4100 50  0001 C CNN
-F 3 "" H 3000 4100 50  0001 C CNN
-	1    3000 4100
-	1    0    0    -1  
+P 3600 4100
+F 0 "#PWR0119" H 3600 3950 50  0001 C CNN
+F 1 "+3V3" H 3615 4273 50  0000 C CNN
+F 2 "" H 3600 4100 50  0001 C CNN
+F 3 "" H 3600 4100 50  0001 C CNN
+	1    3600 4100
+	-1   0    0    -1  
 $EndComp
 $Comp
 L power:GND #PWR0120
 U 1 1 5DCCEE3C
-P 3950 4200
-F 0 "#PWR0120" H 3950 3950 50  0001 C CNN
-F 1 "GND" H 3955 4027 50  0000 C CNN
-F 2 "" H 3950 4200 50  0001 C CNN
-F 3 "" H 3950 4200 50  0001 C CNN
-	1    3950 4200
-	1    0    0    -1  
+P 2650 4200
+F 0 "#PWR0120" H 2650 3950 50  0001 C CNN
+F 1 "GND" H 2655 4027 50  0000 C CNN
+F 2 "" H 2650 4200 50  0001 C CNN
+F 3 "" H 2650 4200 50  0001 C CNN
+	1    2650 4200
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Connector_Generic:Conn_02x02_Odd_Even J5
@@ -1692,58 +1692,58 @@ F 3 "~" H 3250 4600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3550 4150 3950 4150
+	3050 4150 2650 4150
 Wire Wire Line
-	3950 4150 3950 4200
+	2650 4150 2650 4200
 Wire Wire Line
-	3050 4150 3000 4150
+	3550 4150 3600 4150
 Wire Wire Line
-	3000 4150 3000 4100
-Wire Wire Line
-	3050 4250 3000 4250
+	3600 4150 3600 4100
 Wire Wire Line
 	3550 4250 3600 4250
+Wire Wire Line
+	3050 4250 3000 4250
 $Comp
 L power:+3V3 #PWR0121
 U 1 1 5DD64114
-P 3000 4550
-F 0 "#PWR0121" H 3000 4400 50  0001 C CNN
-F 1 "+3V3" H 3015 4723 50  0000 C CNN
-F 2 "" H 3000 4550 50  0001 C CNN
-F 3 "" H 3000 4550 50  0001 C CNN
-	1    3000 4550
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	3050 4600 3000 4600
-Wire Wire Line
-	3000 4600 3000 4550
-$Comp
-L power:GND #PWR0122
-U 1 1 5DD8950D
-P 3700 4650
-F 0 "#PWR0122" H 3700 4400 50  0001 C CNN
-F 1 "GND" H 3705 4477 50  0000 C CNN
-F 2 "" H 3700 4650 50  0001 C CNN
-F 3 "" H 3700 4650 50  0001 C CNN
-	1    3700 4650
-	1    0    0    -1  
+P 3600 4550
+F 0 "#PWR0121" H 3600 4400 50  0001 C CNN
+F 1 "+3V3" H 3615 4723 50  0000 C CNN
+F 2 "" H 3600 4550 50  0001 C CNN
+F 3 "" H 3600 4550 50  0001 C CNN
+	1    3600 4550
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	3550 4600 3600 4600
 Wire Wire Line
-	3700 4600 3700 4650
+	3600 4600 3600 4550
+$Comp
+L power:GND #PWR0122
+U 1 1 5DD8950D
+P 2900 4650
+F 0 "#PWR0122" H 2900 4400 50  0001 C CNN
+F 1 "GND" H 2905 4477 50  0000 C CNN
+F 2 "" H 2900 4650 50  0001 C CNN
+F 3 "" H 2900 4650 50  0001 C CNN
+	1    2900 4650
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	3050 4600 3000 4600
+Wire Wire Line
+	2900 4600 2900 4650
 Text GLabel 1850 3000 2    50   Output ~ 0
 Ethernet_Activity
 Wire Wire Line
 	1850 3000 1800 3000
 Wire Wire Line
-	3600 2050 3550 2050
-Text GLabel 3600 2050 2    50   Input ~ 0
+	3000 2050 3050 2050
+Text GLabel 3000 2050 0    50   Input ~ 0
 TX0
-Text Notes 2700 3100 0    22   ~ 0
+Text Notes 3900 3100 2    22   ~ 0
 PWM 0 Used for \nEthernet Link LED
-NoConn ~ 3050 3100
+NoConn ~ 3550 3100
 Text GLabel 8350 2000 2    50   Input ~ 0
 Ethernet_Activity
 $Comp
@@ -1817,17 +1817,17 @@ Wire Wire Line
 Wire Wire Line
 	1800 900  1850 900 
 Wire Wire Line
-	3550 4700 3600 4700
-Wire Wire Line
-	3600 4700 3600 4600
-Connection ~ 3600 4600
-Wire Wire Line
-	3600 4600 3700 4600
-Wire Wire Line
 	3050 4700 3000 4700
 Wire Wire Line
 	3000 4700 3000 4600
 Connection ~ 3000 4600
+Wire Wire Line
+	3000 4600 2900 4600
+Wire Wire Line
+	3550 4700 3600 4700
+Wire Wire Line
+	3600 4700 3600 4600
+Connection ~ 3600 4600
 Text Label 7700 3800 0    50   ~ 0
 Wake
 Text Label 7600 4000 0    50   ~ 0
@@ -1879,7 +1879,7 @@ NoConn ~ 950  5850
 NoConn ~ 950  5950
 Text Notes 1250 750  0    100  ~ 20
 DIO
-Text Notes 3000 750  0    100  ~ 20
+Text Notes 3600 750  2    100  ~ 20
 Headers
 Wire Notes Line
 	600  600  9200 600 
