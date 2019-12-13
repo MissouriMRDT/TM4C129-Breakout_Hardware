@@ -1005,7 +1005,7 @@ F 3 "" H 5300 4850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	6300 4300 6200 4300
+	6300 4300 6250 4300
 Wire Wire Line
 	5800 4300 5900 4300
 Wire Wire Line
@@ -1807,7 +1807,7 @@ Text Label 5950 4050 0    50   ~ 0
 RST_In
 Text Label 5850 4200 0    50   ~ 0
 OSC0
-Text Label 6200 4300 0    50   ~ 0
+Text Label 6250 4400 0    50   ~ 0
 OSC1
 Text Label 6250 5000 0    50   ~ 0
 RBIAS
@@ -1933,4 +1933,9 @@ Wire Wire Line
 	8600 2000 8550 2000
 Wire Wire Line
 	8300 1900 8550 1900
+Wire Wire Line
+	6250 4400 6250 4300
+Connection ~ 6250 4300
+Wire Wire Line
+	6250 4300 6200 4300
 $EndSCHEMATC
