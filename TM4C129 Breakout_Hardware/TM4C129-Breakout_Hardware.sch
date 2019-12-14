@@ -232,9 +232,9 @@ F 3 "" H 2300 4200 50  0001 C CNN
 	1    1150 6000
 	1    0    0    -1  
 $EndComp
-Text GLabel 6250 4600 0    50   Input ~ 0
+Text GLabel 6250 4600 0    50   Output ~ 0
 EN0RXI_P
-Text GLabel 6250 4500 0    50   Input ~ 0
+Text GLabel 6250 4500 0    50   Output ~ 0
 EN0RXI_N
 Text GLabel 6250 4800 0    50   Output ~ 0
 EN0TXO_P
@@ -468,7 +468,7 @@ $Comp
 L Device:R R14
 U 1 1 5DD672BB
 P 8200 3800
-F 0 "R14" V 8250 3600 50  0000 C CNN
+F 0 "R14" V 8250 3650 50  0000 C CNN
 F 1 "1M" V 8200 3800 50  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 8130 3800 50  0001 C CNN
 F 3 "~" H 8200 3800 50  0001 C CNN
@@ -506,7 +506,7 @@ L Device:C C14
 U 1 1 5DD80C22
 P 8300 5750
 F 0 "C14" H 8350 5850 50  0000 L CNN
-F 1 "1uF" H 8350 5650 50  0000 L CNN
+F 1 ".1uF" H 8350 5650 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 8338 5600 50  0001 C CNN
 F 3 "~" H 8300 5750 50  0001 C CNN
 	1    8300 5750
@@ -1201,9 +1201,9 @@ F 3 "" H 6950 1800 50  0001 C CNN
 	1    6050 1850
 	1    0    0    -1  
 $EndComp
-Text GLabel 5300 1500 0    50   Output ~ 0
+Text GLabel 5300 1500 0    50   Input ~ 0
 EN0RXI_P
-Text GLabel 5300 1400 0    50   Output ~ 0
+Text GLabel 5300 1400 0    50   Input ~ 0
 EN0RXI_N
 Text GLabel 5300 1800 0    50   Input ~ 0
 EN0TXO_P
