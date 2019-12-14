@@ -954,7 +954,7 @@ L Switch:SW_Push SW1
 U 1 1 5DFE05A7
 P 4600 4200
 F 0 "SW1" V 4650 4400 50  0000 R CNN
-F 1 "SW_Push" V 4550 4600 50  0000 R CNN
+F 1 "Reset" V 4550 4600 50  0000 R CNN
 F 2 "Button_Switch_SMD:SW_SPST_TL3305A" H 4600 4400 50  0001 C CNN
 F 3 "" H 4600 4400 50  0001 C CNN
 	1    4600 4200
@@ -1201,13 +1201,13 @@ F 3 "" H 6950 1800 50  0001 C CNN
 	1    6050 1850
 	1    0    0    -1  
 $EndComp
-Text GLabel 5300 1500 0    50   Output ~ 0
+Text GLabel 5300 1600 0    50   Output ~ 0
 EN0RXI_P
-Text GLabel 5300 1400 0    50   Output ~ 0
+Text GLabel 5300 1800 0    50   Output ~ 0
 EN0RXI_N
-Text GLabel 5300 1800 0    50   Input ~ 0
+Text GLabel 5300 1400 0    50   Input ~ 0
 EN0TXO_P
-Text GLabel 5300 1600 0    50   Input ~ 0
+Text GLabel 5300 1500 0    50   Input ~ 0
 EN0TXO_N
 $Comp
 L power:+3V3 #PWR0113
