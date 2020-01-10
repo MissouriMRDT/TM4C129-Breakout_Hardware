@@ -10,4 +10,5 @@
   (lib (name MRDT_Shields)(type Legacy)(uri C:/MRDT_KiCAD_Libraries-master/Symbols/MRDT_Shields.lib)(options "")(descr ""))
   (lib (name MRDT_Silkscreens)(type Legacy)(uri C:/MRDT_KiCAD_Libraries-master/Symbols/MRDT_Silkscreens.lib)(options "")(descr ""))
   (lib (name MRDT_Switches)(type Legacy)(uri C:/MRDT_KiCAD_Libraries-master/Symbols/MRDT_Switches.lib)(options "")(descr ""))
+  (lib (name TM4C129-Breakout_Hardware-rescue)(type Legacy)(uri ${KIPRJMOD}/TM4C129-Breakout_Hardware-rescue.lib)(options "")(descr ""))
 )
